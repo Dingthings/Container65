@@ -7,4 +7,5 @@
   (lib (name "Switch_Keyboard_Cherry_MX")(type "KiCad")(uri "${KIPRJMOD}/keyswitch-kicad-library/library/footprints/Switch_Keyboard_Cherry_MX.pretty")(options "")(descr ""))
   (lib (name "Mounting_Keyboard_Stabilizer")(type "KiCad")(uri "${KIPRJMOD}/keyswitch-kicad-library/library/footprints/Mounting_Keyboard_Stabilizer.pretty")(options "")(descr ""))
   (lib (name "extras")(type "KiCad")(uri "${KIPRJMOD}/Extra-components")(options "")(descr ""))
+  (lib (name "Extra-components")(type "KiCad")(uri "${KIPRJMOD}/Extra-components")(options "")(descr ""))
 )

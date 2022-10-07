@@ -1,4 +1,4 @@
-21293014893012937
+21319646690505384
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -52114,6 +52114,90 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+Extra-components
+1x02_2.54_Pogo Female
+Molex Micro-Fit 3.0 Connector System, 43650-0415 (compatible alternatives: 43650-0416, 43650-0417), 4 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 vertical
+0
+2
+2
+Extra-components
+1x02_2.54_Pogo Female GND
+Molex Micro-Fit 3.0 Connector System, 43650-0415 (compatible alternatives: 43650-0416, 43650-0417), 4 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 vertical
+0
+2
+2
+Extra-components
+1x02_2.54_Pogo Male
+Molex Micro-Fit 3.0 Connector System, 43650-0415 (compatible alternatives: 43650-0416, 43650-0417), 4 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 vertical
+0
+2
+2
+Extra-components
+1x02_2.54_Pogo Male GND
+Molex Micro-Fit 3.0 Connector System, 43650-0415 (compatible alternatives: 43650-0416, 43650-0417), 4 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 vertical
+0
+2
+2
+Extra-components
+1x04_3.00mm_Magnetic Pogo
+Molex Micro-Fit 3.0 Connector System, 43650-0415 (compatible alternatives: 43650-0416, 43650-0417), 4 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 vertical
+0
+4
+4
+Extra-components
+1x04_3.00mm_Magnetic Pogo_Female
+Molex Micro-Fit 3.0 Connector System, 43650-0415 (compatible alternatives: 43650-0416, 43650-0417), 4 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 vertical
+0
+6
+6
+Extra-components
+1x04_3.00mm_Magnetic Pogo_Female_2
+Molex Micro-Fit 3.0 Connector System, 43650-0415 (compatible alternatives: 43650-0416, 43650-0417), 4 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 vertical
+0
+6
+6
+Extra-components
+1x04_3.00mm_Magnetic Pogo_Male
+Molex Micro-Fit 3.0 Connector System, 43650-0415 (compatible alternatives: 43650-0416, 43650-0417), 4 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 vertical
+0
+6
+6
+Extra-components
+key-switch
+KEY-TH_CPG151101D21X footprint
+KEY-TH_CPG151101D21X footprint
+0
+2
+2
+Extra-components
+rp2040
+LQFN-56_L7.0-W7.0-P0.4-EP footprint
+LQFN-56_L7.0-W7.0-P0.4-EP footprint
+0
+57
+57
+Extra-components
+simple-usb-c
+USB-C_SMD-TYPE-C-31-M-12 footprint
+USB-C_SMD-TYPE-C-31-M-12 footprint
+0
+20
+17
+Extra-components
+tactile-switch
+SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL-2 footprint
+SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL-2 footprint
+0
+4
+4
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -89617,6 +89701,34 @@ Varistor
 RV_Disc_D21.5mm_W11.4mm_P10mm
 Varistor, diameter 21.5mm, width 11.4mm, pitch 10mm
 varistor SIOV
+0
+2
+2
+extras
+1x02_2.54_Pogo Female
+Molex Micro-Fit 3.0 Connector System, 43650-0415 (compatible alternatives: 43650-0416, 43650-0417), 4 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 vertical
+0
+2
+2
+extras
+1x02_2.54_Pogo Female GND
+Molex Micro-Fit 3.0 Connector System, 43650-0415 (compatible alternatives: 43650-0416, 43650-0417), 4 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 vertical
+0
+2
+2
+extras
+1x02_2.54_Pogo Male
+Molex Micro-Fit 3.0 Connector System, 43650-0415 (compatible alternatives: 43650-0416, 43650-0417), 4 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 vertical
+0
+2
+2
+extras
+1x02_2.54_Pogo Male GND
+Molex Micro-Fit 3.0 Connector System, 43650-0415 (compatible alternatives: 43650-0416, 43650-0417), 4 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 vertical
 0
 2
 2
