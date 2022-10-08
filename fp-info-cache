@@ -1,4 +1,4 @@
-21319646690505384
+21424559918363633
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -52114,84 +52114,84 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
-Extra-components
+Extras
 1x02_2.54_Pogo Female
 Molex Micro-Fit 3.0 Connector System, 43650-0415 (compatible alternatives: 43650-0416, 43650-0417), 4 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
 connector Molex Micro-Fit_3.0 vertical
 0
 2
 2
-Extra-components
+Extras
 1x02_2.54_Pogo Female GND
 Molex Micro-Fit 3.0 Connector System, 43650-0415 (compatible alternatives: 43650-0416, 43650-0417), 4 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
 connector Molex Micro-Fit_3.0 vertical
 0
 2
 2
-Extra-components
+Extras
 1x02_2.54_Pogo Male
 Molex Micro-Fit 3.0 Connector System, 43650-0415 (compatible alternatives: 43650-0416, 43650-0417), 4 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
 connector Molex Micro-Fit_3.0 vertical
 0
 2
 2
-Extra-components
+Extras
 1x02_2.54_Pogo Male GND
 Molex Micro-Fit 3.0 Connector System, 43650-0415 (compatible alternatives: 43650-0416, 43650-0417), 4 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
 connector Molex Micro-Fit_3.0 vertical
 0
 2
 2
-Extra-components
+Extras
 1x04_3.00mm_Magnetic Pogo
 Molex Micro-Fit 3.0 Connector System, 43650-0415 (compatible alternatives: 43650-0416, 43650-0417), 4 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
 connector Molex Micro-Fit_3.0 vertical
 0
 4
 4
-Extra-components
+Extras
 1x04_3.00mm_Magnetic Pogo_Female
 Molex Micro-Fit 3.0 Connector System, 43650-0415 (compatible alternatives: 43650-0416, 43650-0417), 4 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
 connector Molex Micro-Fit_3.0 vertical
 0
 6
 6
-Extra-components
+Extras
 1x04_3.00mm_Magnetic Pogo_Female_2
 Molex Micro-Fit 3.0 Connector System, 43650-0415 (compatible alternatives: 43650-0416, 43650-0417), 4 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
 connector Molex Micro-Fit_3.0 vertical
 0
 6
 6
-Extra-components
+Extras
 1x04_3.00mm_Magnetic Pogo_Male
 Molex Micro-Fit 3.0 Connector System, 43650-0415 (compatible alternatives: 43650-0416, 43650-0417), 4 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
 connector Molex Micro-Fit_3.0 vertical
 0
 6
 6
-Extra-components
+Extras
 key-switch
 KEY-TH_CPG151101D21X footprint
 KEY-TH_CPG151101D21X footprint
 0
 2
 2
-Extra-components
+Extras
 rp2040
 LQFN-56_L7.0-W7.0-P0.4-EP footprint
 LQFN-56_L7.0-W7.0-P0.4-EP footprint
 0
 57
 57
-Extra-components
+Extras
 simple-usb-c
 USB-C_SMD-TYPE-C-31-M-12 footprint
 USB-C_SMD-TYPE-C-31-M-12 footprint
 0
 20
 17
-Extra-components
+Extras
 tactile-switch
 SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL-2 footprint
 SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL-2 footprint
@@ -89704,90 +89704,531 @@ varistor SIOV
 0
 2
 2
-extras
-1x02_2.54_Pogo Female
-Molex Micro-Fit 3.0 Connector System, 43650-0415 (compatible alternatives: 43650-0416, 43650-0417), 4 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 vertical
+kbd
+1pin_conn
+Resitance 3 pas
+R
+0
+1
+1
+kbd
+Breakaway_Tabs
+
+
+0
+0
+0
+kbd
+CherryMX_1u
+
+
 0
 2
 2
-extras
-1x02_2.54_Pogo Female GND
-Molex Micro-Fit 3.0 Connector System, 43650-0415 (compatible alternatives: 43650-0416, 43650-0417), 4 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 vertical
+kbd
+CherryMX_ChocV2_1.5u
+
+
+0
+5
+2
+kbd
+CherryMX_ChocV2_1u
+
+
+0
+5
+2
+kbd
+CherryMX_Choc_1.5u
+
+
+0
+4
+2
+kbd
+CherryMX_Choc_1u
+
+
+0
+4
+2
+kbd
+CherryMX_Choc_Hotswap
+
+
+0
+8
+2
+kbd
+CherryMX_Choc_Hotswap_1.5u
+
+
+0
+8
+2
+kbd
+CherryMX_Hotswap
+
+
 0
 2
 2
-extras
-1x02_2.54_Pogo Male
-Molex Micro-Fit 3.0 Connector System, 43650-0415 (compatible alternatives: 43650-0416, 43650-0417), 4 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 vertical
+kbd
+CherryMX_Hotswap_1.5u
+
+
 0
 2
 2
-extras
-1x02_2.54_Pogo Male GND
-Molex Micro-Fit 3.0 Connector System, 43650-0415 (compatible alternatives: 43650-0416, 43650-0417), 4 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 vertical
+kbd
+CherryMX_MidHeight_Choc_Hotswap
+
+
+0
+8
+2
+kbd
+CherryMX_MidHeight_Hotswap
+
+
+0
+4
+2
+kbd
+CherryMX_MidHeight_Hotswap_1.5u
+
+
+0
+4
+2
+kbd
+ChocV1_V2_Hotswap
+
+
+0
+3
+2
+kbd
+ChocV1_V2_Hotswap_1.5u
+
+
+0
+3
+2
+kbd
+D3_SMD
+Resitance 3 pas
+R
+0
+4
+2
+kbd
+D3_SMD_v2
+Resitance 3 pas
+R
 0
 2
 2
-extras
-1x04_3.00mm_Magnetic Pogo
-Molex Micro-Fit 3.0 Connector System, 43650-0415 (compatible alternatives: 43650-0416, 43650-0417), 4 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 vertical
+kbd
+D3_TH
+Resitance 3 pas
+R
+0
+4
+2
+kbd
+D3_TH_SMD
+Resitance 3 pas
+R
+0
+6
+2
+kbd
+D3_TH_SMD_v2
+Resitance 3 pas
+R
+0
+4
+2
+kbd
+GND_pad
+
+
+0
+2
+2
+kbd
+HOLE
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+kbd
+IM_HOLE
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+kbd
+JP
+
+
+0
+3
+2
+kbd
+JPC2
+
+
+0
+3
+2
+kbd
+Jumper
+
+
+0
+2
+2
+kbd
+LED_WS2812B-PLCC4
+http://www.world-semi.com/uploads/soft/150522/1-150522091P5.pdf
+LED NeoPixel
 0
 4
 4
-extras
-1x04_3.00mm_Magnetic Pogo_Female
-Molex Micro-Fit 3.0 Connector System, 43650-0415 (compatible alternatives: 43650-0416, 43650-0417), 4 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 vertical
+kbd
+M2_HOLE
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
 0
-6
-6
-extras
-1x04_3.00mm_Magnetic Pogo_Female_2
-Molex Micro-Fit 3.0 Connector System, 43650-0415 (compatible alternatives: 43650-0416, 43650-0417), 4 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 vertical
+1
 0
-6
-6
-extras
-1x04_3.00mm_Magnetic Pogo_Male
-Molex Micro-Fit 3.0 Connector System, 43650-0415 (compatible alternatives: 43650-0416, 43650-0417), 4 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 vertical
+kbd
+M2_HOLE_v2
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
 0
-6
-6
-extras
-key-switch
-KEY-TH_CPG151101D21X footprint
-KEY-TH_CPG151101D21X footprint
 0
-2
-2
-extras
-rp2040
-LQFN-56_L7.0-W7.0-P0.4-EP footprint
-LQFN-56_L7.0-W7.0-P0.4-EP footprint
 0
-57
-57
-extras
-simple-usb-c
-USB-C_SMD-TYPE-C-31-M-12 footprint
-USB-C_SMD-TYPE-C-31-M-12 footprint
+kbd
+M2_HOLE_v3
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
 0
-20
-17
-extras
-tactile-switch
-SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL-2 footprint
-SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL-2 footprint
+9
+1
+kbd
+M2_Hole_NPTH_Outside
+
+
+0
+0
+0
+kbd
+M2_Hole_TH
+
+
+0
+1
+0
+kbd
+M2_Hole_TH_Outside
+
+
+0
+1
+0
+kbd
+M2_Threads_v2
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+1
+0
+kbd
+MJ-4PP-9
+
+
+0
+8
+4
+kbd
+MJ-4PP-9_1side
+
+
 0
 4
 4
+kbd
+MX_ALPS_PG1350_noLed
+
+
+0
+11
+2
+kbd
+MX_ALPS_PG1350_noLed_1.75u
+
+
+0
+11
+2
+kbd
+OLED
+Connecteur 6 pins
+CONN DEV
+0
+4
+4
+kbd
+OLED_1side
+Connecteur 6 pins
+CONN DEV
+0
+4
+4
+kbd
+OLED_v2
+Connecteur 6 pins
+CONN DEV
+0
+4
+4
+kbd
+ProMicro_v2
+
+
+0
+48
+24
+kbd
+ProMicro_v2_1side
+
+
+0
+24
+24
+kbd
+ProMicro_v3
+
+
+0
+24
+24
+kbd
+ProMicro_v3.5
+
+
+0
+24
+24
+kbd
+R
+Resitance 3 pas
+R
+0
+2
+2
+kbd
+ResetSW
+
+
+0
+2
+2
+kbd
+ResetSW_1side
+
+
+0
+2
+2
+kbd
+ResetSW_4
+
+
+0
+4
+2
+kbd
+ResetSW_4P
+
+
+0
+4
+2
+kbd
+SK6812MINI_rev
+
+
+0
+8
+4
+kbd
+SK6812MINI_underglow_rev
+
+
+0
+8
+4
+kbd
+SW_Hole
+
+
+0
+0
+0
+kbd
+SW_Hole_ALPS
+
+
+0
+0
+0
+kbd
+SW_Hole_TH
+
+
+0
+4
+1
+kbd
+StripLED_1side
+
+
+0
+3
+3
+kbd
+StripLED_OUT_1side
+
+
+0
+1
+1
+kbd
+StripLED_rev
+
+
+0
+6
+3
+kbd
+YS-SK6812MINI-E
+
+
+0
+4
+4
+kbd
+corne
+
+
+0
+0
+0
+kbd
+corne-cherry-logo
+
+
+0
+0
+0
+kbd
+corne-horizontal
+
+
+0
+0
+0
+kbd
+corne-logo
+
+
+0
+0
+0
+kbd
+corne-logo-horizontal
+
+
+0
+0
+0
+kbd
+corne-logo-horizontal-mask
+
+
+0
+0
+0
+kbd
+corne-logo-silk
+
+
+0
+0
+0
+kbd
+corne-mask
+
+
+0
+0
+0
+kbd
+keyswitch_cherrymx_alps_choc12_1.5u
+
+
+0
+6
+2
+kbd
+keyswitch_cherrymx_alps_choc12_1u
+
+
+0
+6
+2
+kbd
+keyswitch_hole
+
+
+0
+2
+2
+kbd
+petit_split-logo
+
+
+0
+0
+0
+kbd
+spacer_m2
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+kbd
+thread_m2
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+kbd
+waffle
+
+
+0
+0
+0
 random-keyboard-parts
 D_SOD-123-Pretty
 SOD-123
