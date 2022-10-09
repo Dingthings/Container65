@@ -1,92 +1,78 @@
-21638211899769
-Extras
-1x02_2.54_Pogo Female
-Molex Micro-Fit 3.0 Connector System, 43650-0415 (compatible alternatives: 43650-0416, 43650-0417), 4 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 vertical
-0
-2
-2
-Extras
-1x02_2.54_Pogo Female GND
-Molex Micro-Fit 3.0 Connector System, 43650-0415 (compatible alternatives: 43650-0416, 43650-0417), 4 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 vertical
-0
-2
-2
-Extras
-1x02_2.54_Pogo Male
-Molex Micro-Fit 3.0 Connector System, 43650-0415 (compatible alternatives: 43650-0416, 43650-0417), 4 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 vertical
-0
-2
-2
-Extras
-1x02_2.54_Pogo Male GND
-Molex Micro-Fit 3.0 Connector System, 43650-0415 (compatible alternatives: 43650-0416, 43650-0417), 4 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 vertical
-0
-2
-2
-Extras
-1x04_3.00mm_Magnetic Pogo
-Molex Micro-Fit 3.0 Connector System, 43650-0415 (compatible alternatives: 43650-0416, 43650-0417), 4 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 vertical
-0
-4
-4
-Extras
-1x04_3.00mm_Magnetic Pogo_Female
-Molex Micro-Fit 3.0 Connector System, 43650-0415 (compatible alternatives: 43650-0416, 43650-0417), 4 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 vertical
-0
-6
-6
-Extras
-1x04_3.00mm_Magnetic Pogo_Female_2
-Molex Micro-Fit 3.0 Connector System, 43650-0415 (compatible alternatives: 43650-0416, 43650-0417), 4 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 vertical
-0
-6
-6
-Extras
-1x04_3.00mm_Magnetic Pogo_Male
-Molex Micro-Fit 3.0 Connector System, 43650-0415 (compatible alternatives: 43650-0416, 43650-0417), 4 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 vertical
-0
-6
-6
-Extras
-3x4x2.5mm Micro Switch
+18305905239924
+acheron_MX_PlateSlots
+MX100
 
 
 0
-4
-4
-Extras
-key-switch
-KEY-TH_CPG151101D21X footprint
-KEY-TH_CPG151101D21X footprint
 0
-2
-2
-Extras
-rp2040
-LQFN-56_L7.0-W7.0-P0.4-EP footprint
-LQFN-56_L7.0-W7.0-P0.4-EP footprint
 0
-57
-57
-Extras
-simple-usb-c
-USB-C_SMD-TYPE-C-31-M-12 footprint
-USB-C_SMD-TYPE-C-31-M-12 footprint
+acheron_MX_PlateSlots
+MX125
+
+
 0
-20
-17
-Extras
-tactile-switch
-SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL-2 footprint
-SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL-2 footprint
 0
-4
-4
+0
+acheron_MX_PlateSlots
+MX150
+
+
+0
+0
+0
+acheron_MX_PlateSlots
+MX175
+
+
+0
+0
+0
+acheron_MX_PlateSlots
+MX200
+
+
+0
+0
+0
+acheron_MX_PlateSlots
+MX225
+
+
+0
+0
+0
+acheron_MX_PlateSlots
+MX275
+
+
+0
+0
+0
+acheron_MX_PlateSlots
+MX600
+
+
+0
+0
+0
+acheron_MX_PlateSlots
+MX625
+
+
+0
+0
+0
+acheron_MX_PlateSlots
+MX700
+
+
+0
+0
+0
+acheron_MX_PlateSlots
+MX_ISO_Enter
+
+
+0
+0
+0

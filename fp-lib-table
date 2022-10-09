@@ -8,4 +8,5 @@
   (lib (name "Mounting_Keyboard_Stabilizer")(type "KiCad")(uri "${KIPRJMOD}/keyswitch-kicad-library/library/footprints/Mounting_Keyboard_Stabilizer.pretty")(options "")(descr ""))
   (lib (name "Extras")(type "KiCad")(uri "${KIPRJMOD}/Extra-components")(options "")(descr ""))
   (lib (name "kbd")(type "KiCad")(uri "${KIPRJMOD}/kbd/kicad-footprints/kbd.pretty")(options "")(descr ""))
+  (lib (name "acheron_MX_PlateSlots")(type "KiCad")(uri "${KIPRJMOD}/acheron_MX_PlateSlots.pretty")(options "")(descr ""))
 )
