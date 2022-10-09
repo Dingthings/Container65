@@ -56,4 +56,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -180))
   )
+  (model "${KIPRJMOD}/Extra-components/packages3d/simple-usb-c.wrl"
+    (offset (xyz 0 -1.2 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 -180))
+  )
 )
