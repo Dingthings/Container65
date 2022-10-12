@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.381
         }
       },
       "diff_pair_dimensions": [
@@ -391,7 +391,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "Container65-3.step",
+      "step": "Container65-Rerouted2.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
