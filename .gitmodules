@@ -22,3 +22,6 @@
 [submodule "kbd"]
 	path = kbd
 	url = https://github.com/foostan/kbd
+[submodule "marbastlib"]
+	path = marbastlib
+	url = https://github.com/ebastler/marbastlib

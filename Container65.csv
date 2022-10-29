@@ -1,0 +1,32 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"MX-E-3,MX20,MX17,MX-E-2,MX-E-4,MX-E-1";"SW_Hotswap_Kailh_MX_plated_2.00u_Modified";6;"MX-2U";;;
+
+8;"SW1";"RotaryEncoder_EC11";1;"RotaryEncoder_Switch";;;
+10;"FB1";"L_0805_2012Metric";1;"100@100MHz";;;
+11;"D14,D4,D8,D23,D10,D15,D12,D1,D3,D17,D18,D9,D20,D5,D6,D11,D13,D19,D2,D16,D7";"D_SOD123";21;"1N4148W";;;
+12;"C10,C15,C17,C13,C8,C16,C12,C11,C14,C9";"C_0402";10;"100nF";;;
+13;"J3";"1x02_2.54_Pogo Male GND";1;"POGOm1";;;
+14;"D22";"R_0805";1;"Power LED (Blue)";;;
+15;"C4,C2,C5,C1";"C_0402";4;"1uF";;;
+16;"R4,R8";"R_0402";2;"10k ohm";;;
+17;"U3";"SOT-23";1;"XC6206PxxxMR";;;
+18;"U5";"3x4x2.5mm Micro Switch";1;"USB Boot";;;
+19;"R9";"R_0402";1;"1k5 ohm";;;
+20;"R11,R10";"R_0402";2;"4.7k";;;
+21;"U1";"rp2040";1;"RP2040";;;
+22;"R7,R6";"R_0402";2;"5.1k";;;
+23;"D21";"D_SOD123";1;"Schottky 5819W";;;
+24;"J6";"1x02_2.54_Pogo Female";1;"POGOf2";;;
+25;"F1";"Fuse_0805";1;"TLC_PSMD050";;;
+26;"R3,R5";"R_0402";2;"1k ohm";;;
+27;"C7,C6";"C_0402";2;"30pF";;;
+28;"R1,R2";"R_0603";2;"27 ohm";;;
+
+30;"Y1";"Crystal_SMD_3225-4Pin_3.2x2.5mm";1;"12MHz - 20pF";;;
+31;"U6";"3x4x2.5mm Micro Switch";1;"Reset";;;
+32;"J4";"1x02_2.54_Pogo Male";1;"POGOm2";;;
+33;"C18,C3";"C_0402";2;"0.1 uF";;;
+
+
+36;"U4";"SOIC-8_5.23x5.23mm_P1.27mm";1;"W25Q128JVS";;;
+37;"U2";"simple-usb-c";1;"TYPE-C-31-M-12";;;

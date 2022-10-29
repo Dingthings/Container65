@@ -1,4 +1,4 @@
-21447866523691535
+21457876174111917
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -52178,6 +52178,34 @@ Extras
 4
 4
 Extras
+DingKeyF.Cu
+
+
+0
+0
+0
+Extras
+DingKeyF.Mask
+
+
+0
+0
+0
+Extras
+TextF.Cu
+
+
+0
+0
+0
+Extras
+TextF.Mask
+
+
+0
+0
+0
+Extras
 key-switch
 KEY-TH_CPG151101D21X footprint
 KEY-TH_CPG151101D21X footprint
@@ -82887,6 +82915,13 @@ Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 1.00u
 8
 2
 Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_plated_1.00u_Modified_AntiShear
+Kailh keyswitch Hotswap Socket plated holes with 1.00u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 1.00u
+0
+12
+2
+Switch_Keyboard_Hotswap_Kailh
 SW_Hotswap_Kailh_MX_plated_1.25u
 Kailh keyswitch Hotswap Socket plated holes with 1.25u keycap
 Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 1.25u
@@ -82948,6 +82983,13 @@ Kailh keyswitch Hotswap Socket plated holes with 2.00u keycap
 Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 2.00u
 0
 8
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_plated_2.00u_Modified_AntiShear
+Kailh keyswitch Hotswap Socket plated holes with 2.00u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 2.00u
+0
+12
 2
 Switch_Keyboard_Hotswap_Kailh
 SW_Hotswap_Kailh_MX_plated_2.25u
